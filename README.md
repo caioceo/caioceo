@@ -30,8 +30,7 @@ Me chamo Caio César de Oliveira, tenho 18 anos, nasci e moro em Belo Horizonte,
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caioceo&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
   />
-<br>
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
