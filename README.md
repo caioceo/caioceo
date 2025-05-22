@@ -14,7 +14,7 @@ Me chamo Caio César de Oliveira, tenho 18 anos, nasci e moro em Belo Horizonte,
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-## Converse comigo
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-c%C3%A9sar-de-oliveira-53a5b3357/)
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioceo06@gmail.com)
@@ -30,7 +30,7 @@ Me chamo Caio César de Oliveira, tenho 18 anos, nasci e moro em Belo Horizonte,
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caioceo&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
   />
-
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
