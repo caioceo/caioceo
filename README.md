@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar os projetos, sugerir melhorias ou entrar em co
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-c%C3%A9sar-de-oliveira-53a5b3357/)
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioceo06@gmail.com)
 
-
+---
 ### Estatísticas
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; align-items: center;">
